@@ -1,0 +1,4 @@
+main .cpp and Institue.hpp
+The maximum overall score 1000 of an institution is summing of selection process maximum score 200,
+academic excellence maximum score 300, Infrastructure maximum score 250 and placement maximum score  250.
+
